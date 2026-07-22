@@ -1,0 +1,2 @@
+# termsandconditions67hundre
+oversikt over 67hundre personvernærklering
