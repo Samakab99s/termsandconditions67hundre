@@ -17,4 +17,4 @@ Du er ansvarlig for å holde passordet ditt hemmelig. Bransj1 (utvikler) Er ikke
 Tjenesten leveres "som den er". Vi garanterer ikke at tjenesten alltid vil være oppe eller feilfri. Vi er ikke ansvarlige for indirekte tap, driftsavbrudd eller tap av data som følge av bruk av applikasjonen.
 
 6. ENDRINGER
-Vi forbeholder oss retten til å endre disse vilkårene. Og husk 67hundre ihjeeeel da.
+Bransj1 (utvikler) forbeholder seg retten til å endre disse vilkårene. Og husk 67hundre ihjeeeel da.
